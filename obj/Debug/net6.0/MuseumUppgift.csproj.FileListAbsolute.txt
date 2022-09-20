@@ -1,0 +1,15 @@
+C:\Users\helma\Documents\SUVNET22\MuseumUppgift\bin\Debug\net6.0\MuseumUppgift.exe
+C:\Users\helma\Documents\SUVNET22\MuseumUppgift\bin\Debug\net6.0\MuseumUppgift.deps.json
+C:\Users\helma\Documents\SUVNET22\MuseumUppgift\bin\Debug\net6.0\MuseumUppgift.runtimeconfig.json
+C:\Users\helma\Documents\SUVNET22\MuseumUppgift\bin\Debug\net6.0\MuseumUppgift.dll
+C:\Users\helma\Documents\SUVNET22\MuseumUppgift\bin\Debug\net6.0\MuseumUppgift.pdb
+C:\Users\helma\Documents\SUVNET22\MuseumUppgift\obj\Debug\net6.0\MuseumUppgift.csproj.AssemblyReference.cache
+C:\Users\helma\Documents\SUVNET22\MuseumUppgift\obj\Debug\net6.0\MuseumUppgift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helma\Documents\SUVNET22\MuseumUppgift\obj\Debug\net6.0\MuseumUppgift.AssemblyInfoInputs.cache
+C:\Users\helma\Documents\SUVNET22\MuseumUppgift\obj\Debug\net6.0\MuseumUppgift.AssemblyInfo.cs
+C:\Users\helma\Documents\SUVNET22\MuseumUppgift\obj\Debug\net6.0\MuseumUppgift.csproj.CoreCompileInputs.cache
+C:\Users\helma\Documents\SUVNET22\MuseumUppgift\obj\Debug\net6.0\MuseumUppgift.dll
+C:\Users\helma\Documents\SUVNET22\MuseumUppgift\obj\Debug\net6.0\refint\MuseumUppgift.dll
+C:\Users\helma\Documents\SUVNET22\MuseumUppgift\obj\Debug\net6.0\MuseumUppgift.pdb
+C:\Users\helma\Documents\SUVNET22\MuseumUppgift\obj\Debug\net6.0\MuseumUppgift.genruntimeconfig.cache
+C:\Users\helma\Documents\SUVNET22\MuseumUppgift\obj\Debug\net6.0\ref\MuseumUppgift.dll
