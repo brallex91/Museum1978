@@ -135,7 +135,7 @@ void Salt()
 
 void Cigars()
 {
-    Console.WriteLine("     EXHIBIT 1\n\n[Information about the cigars]\n\nPress any key to return to Entrance");
+    Console.WriteLine("     Cigars\n\n[Information about the cigars]\n\nPress any key to return to Entrance");
     Console.ReadKey();
     Console.Clear();
     Console.WriteLine("Returning to entrance...");
