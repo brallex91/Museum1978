@@ -7,13 +7,13 @@
         {
         Console.Clear();
         Console.ForegroundColor=ConsoleColor.DarkCyan;
-        Console.WriteLine("     WELCOME TO THE MUSEUM!\nYOU ARE CURRENTLY IN THE ENTRANCE\n");
-        Console.WriteLine("[1] - GIFTSHOP");
+        Console.WriteLine("    ~~~[WELCOME TO THE TOBACCO AND SALT MUSEUM!]~~~\n \n [You are now standing at the entrance of the museum]\n  [Pick a room from the menu to explore the museum]\n\n");
+        Console.WriteLine("[1] - GIFT SHOP");
         Console.WriteLine("[2] - CAFÉ");
         Console.WriteLine("[3] - EXHIBIT 1");
         Console.WriteLine("[4] - EXHIBIT 2");
         Console.WriteLine("_________________\n");
-        Console.WriteLine("[A] - SALT");
+        Console.WriteLine("[A] - SALT SCULPTURES");
         Console.WriteLine("[B] - CIGARS");
         Console.WriteLine("[R] - EXIT MUSEUM");
         Console.ResetColor();
@@ -57,7 +57,7 @@
 
 void GiftShop()
 {
-    Console.WriteLine("     GIFT SHOP\n\nMerchendise\n\nPress any key to return to Entrance");
+    Console.WriteLine("~~~[Welcome to our gift shop]~~~\n\nThe Menu\n\nPress any key to return to Entrance");
     Console.ReadKey();
     Console.Clear();
     Console.WriteLine("Returning to entrance...");
@@ -67,7 +67,7 @@ void GiftShop()
 
 void Cafe()
 {
-    Console.WriteLine("     CAFÉ\n\nThe Menu\n\nPress any key to return to Entrance");
+    Console.WriteLine("~~~[Welcome to our café]~~~\n\nMerchandise\n\nPress any key to return to Entrance");
     Console.ReadKey();
     Console.Clear();
     Console.WriteLine("Returning to entrance...");
@@ -77,7 +77,7 @@ void Cafe()
 
 void Exhibit1()
 {
-    Console.WriteLine("     EXHIBIT 1\n\nInformation about exhibit 1\n\nPress any key to return to Entrance");
+    Console.WriteLine("     EXHIBIT 1\n\n[Information about exhibit 1]\n\nPress any key to return to Entrance");
     Console.ReadKey();
     Console.Clear();
     Console.WriteLine("Returning to entrance...");
@@ -94,14 +94,14 @@ void Exhibit2()
         if (exhibit2Key == ConsoleKey.A)
         {
             Console.Clear();
-            Console.WriteLine("Pipes information............... \n\nPress any key to return to Exhibit 2");
+            Console.WriteLine("[Information about pipes...] \n\nPress any key to return to Exhibit 2");
             Console.ReadKey();
             Console.Clear();  
         }
         else if (exhibit2Key == ConsoleKey.B)
         {
             Console.Clear();
-            Console.WriteLine("Pictures information.................... \n\nPress any key to return to Exhibit 2");
+            Console.WriteLine("[Information about the pictures...] \n\nPress any key to return to Exhibit 2");
             Console.ReadKey();
             Console.Clear();
         }
@@ -116,7 +116,7 @@ void Exhibit2()
         else
         {
             Console.Clear();
-            Console.WriteLine("Only [A], [B], or [R] is allowed.\nReturning to Exhibit 2...");
+            Console.WriteLine("Only (A), (B), or (R) is allowed.\nReturning to Exhibit 2...");
             Thread.Sleep(2500);
             Console.Clear();
         }
@@ -125,7 +125,7 @@ void Exhibit2()
 
 void Salt()
 {
-    Console.WriteLine("     Salt\n\nInformation about Salt\n\nPress any key to return to Entrance");
+    Console.WriteLine("     Salt sculpture\n\n[Information about the salt sculptures]\n\nPress any key to return to Entrance");
     Console.ReadKey();
     Console.Clear();
     Console.WriteLine("Returning to entrance...");
@@ -135,7 +135,7 @@ void Salt()
 
 void Cigars()
 {
-    Console.WriteLine("     EXHIBIT 1\n\nInformation about Cigars\n\nPress any key to return to Entrance");
+    Console.WriteLine("     EXHIBIT 1\n\n[Information about the cigars]\n\nPress any key to return to Entrance");
     Console.ReadKey();
     Console.Clear();
     Console.WriteLine("Returning to entrance...");
